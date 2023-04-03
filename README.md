@@ -7,4 +7,4 @@ neu mau do thi go lenh : git add .
 
 git commit -m "text" // đaya là ddansh dấu suẹ thay đổi có tiêu đề là text
 
-git push 
+git push origin main
